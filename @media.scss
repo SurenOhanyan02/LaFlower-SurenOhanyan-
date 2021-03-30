@@ -1,0 +1,450 @@
+@media screen and (max-width: 1090px){
+
+          .media{
+              display: block;
+          }
+    .about{
+        display: none;
+    
+    }
+  
+
+    .header6{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        background: #ECECEC;
+      
+
+
+
+        .img8888{
+            width: 320px;
+        }
+    }
+
+
+    .main6{
+        display: flex;
+        justify-content: center;
+        background: #ECECEC;
+
+
+        .h2text{
+            width: 500px;
+            align-items: center;
+            text-align: center;
+        }
+    }
+ 
+    .button6{
+        display: flex;
+        justify-content: center;
+        background: #ECECEC;
+
+        .a6{
+            margin-top: 20px;
+            text-decoration: none;
+            color: white;
+            width:  300px;
+            background-color:#5A7421;
+            align-items: center;
+            text-align: center;
+           
+            font-size: 35px;
+            
+        }
+    }
+
+    .bloks {
+
+        background: #ECECEC;
+       padding-top: 30px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+     
+        .blok1 {
+           position: relative;
+           margin: 0 auto;
+           p{
+              position:absolute;
+              left: 22%;
+              top: 45%;
+              font-size: 25px;
+              color: rgb(255, 255, 255);
+           }
+          img{
+             width: 500px;
+          }
+        }
+     
+        .blok2{
+           margin: 0 auto;
+           display: flex;
+           flex-wrap: wrap;
+           justify-content: space-between;
+        }
+        .blok1-1{      position: relative;
+                        margin-right: 5px;
+                        p{
+                          position:absolute;
+                          left: 23%;
+                          top: 42%;
+                          font-size: 25px;
+                          color: rgb(255, 255, 255);
+                       }
+                  img{
+                        width: 245px;
+                        height: 182px;
+                       
+                    }
+                 }
+        .blok2-2{
+           margin-left: 5px;
+           display: flex;
+           flex-wrap: wrap;
+           flex-direction: column;
+        }
+     
+        .mini-1{
+           position: relative;
+           p{
+              text-align: center;
+              position:absolute;
+              left: 5%;
+              top: 30%;
+              font-size: 25px;
+              color: rgb(255, 255, 255);
+           }
+        } img{
+           width: 245px;
+        }
+     
+        .mini-2{
+           position: relative;
+           p{
+              text-align: center;
+              position:absolute;
+              left: 5%;
+              top: 30%;
+              font-size: 25px;
+              color: rgb(255, 255, 255);
+           }
+        } img{
+           width: 245px;
+        }
+     }
+
+
+
+     .main10{
+         display: flex;
+         justify-content: center;
+         background: #ECECEC;
+
+
+         h1{
+             width: 500px;
+         }
+     }
+
+
+     .info-p{
+         padding-top: 10px;
+        display: flex;
+        justify-content: center;
+        background: #ECECEC;
+        
+
+        p{
+            width: 400px;
+            align-items: flex-start;
+        }
+     }
+
+
+     .buton10{
+        padding-top: 10px;
+        display: flex;
+        justify-content: center;
+        background: #ECECEC;
+       
+
+        a{
+            text-decoration: none;
+            color: white;
+            background: #81A459;
+            padding: 30px;
+            height: 10px;
+            font-size: 20px;
+            text-align: center;
+
+        }
+     }
+     .icons10{
+        padding-top: 30px;
+        display: flex;
+        justify-content: center;
+        background: #ECECEC;
+
+        .fa-telegram-plane{
+            font-size: 80px;
+        color: #81A459;
+        margin-right: 40px;
+
+        }
+        .fa-whatsapp{
+            font-size: 80px;
+            color: #81A459;
+            margin-left: 60px;
+        }
+     }
+
+
+     .don10{
+        background: #ECECEC;
+
+        img{
+          width: 500px;
+        }
+     }
+
+
+     .reclame8{
+        width: 500px;
+        position: relative;
+        margin: 0 auto;
+
+     
+        img{
+               padding-top: 50px;
+               width: 500px;
+        }
+     }
+        .reclame-hover{
+           position: absolute;
+           width: 100%;
+           height: 31%;
+
+           top:50%;
+           text-align: center;
+           background-color:#fbfbfb73 ;
+           padding-top: 180px;
+     
+           span{
+              color: #FFFFFF;
+              font-size: 59px;
+              line-height: 40px;
+           }
+        }
+
+        .fotter10{
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            background: #ECECEC;
+
+        }
+
+        .footer11{
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            background: #ECECEC;
+                img{
+                    width: 520px;
+                }
+        }
+
+        .footer-end{
+            width: 100%;
+           justify-content: center;
+           display: flex;
+            background: #ECECEC;
+           
+            .infos{
+                padding: 50px;
+                width: 200px;
+            }
+
+            .fa-phone-alt{
+                margin-bottom: 20px;
+            }
+            h1{
+                font-size: 15px;
+                margin-top: 20px;
+            }
+
+            .fa-telegram-plane{
+                font-size: 50px;
+                color: black;
+            }
+            .fa-whatsapp{
+                font-size: 50px;
+                color: black;
+            }
+
+            .fa-vk{
+                font-size: 50px;
+                color: black;
+            }
+            .fa-instagram{
+                font-size: 50px;
+                color: black;
+            }
+        }
+
+
+        .icons10{
+            position: fixed;   
+          right: 0;   
+      margin-right: 36px; 
+      z-index: 10000000;
+
+      .fa-phone-alt{
+          font-size: 50px;
+        
+      }
+        }
+}
+
+
+
+@media screen and (max-width: 527px){
+    .footer11{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        background: #ECECEC;
+            img{
+                width: 320px;
+                font-size: 30px;
+            }
+    }
+}
+@media screen and (max-width: 500px){
+    .don10{
+        background: #ECECEC;
+
+        img{
+          width: 256px;
+        }
+    }
+
+    .reclame8{
+        width: 300px;
+        display: flex;
+        justify-content: center;
+
+     
+        img{
+               padding-top: 50px;
+               width: 300px;
+        }
+     }
+        .reclame-hover{
+           position: absolute;
+           width: 100%;
+           
+    height: 37%;
+
+           top:50%;
+           text-align: center;
+           background-color:#fbfbfb73 ;
+           padding-top: 80px;
+     
+           span{
+              color: #FFFFFF;
+              font-size: 19px;
+              line-height: 40px;
+           }
+        }
+}
+
+    @media screen and (max-width: 619px){
+
+
+        .bloks {
+
+            background: #ECECEC;
+           padding-top: 30px;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: column;
+         
+            .blok1{
+               position: relative;
+               margin: 0 auto;
+               p{
+                  position:absolute;
+                  left: 25%;
+                  top: 26%;
+                  font-size: 25px;
+                  color: rgb(255, 255, 255);
+               }
+              img{
+                width: 282px;
+              }
+            }
+         
+            .blok2{
+               margin: 0 auto;
+               display: flex;
+               flex-wrap: wrap;
+               justify-content: center;
+            }
+            .blok1-1{      position: relative;
+                            margin-right: 5px;
+                            p{
+                              position:absolute;
+                              left: 28%;
+                              top: 42%;
+                              font-size: 25px;
+                              color: rgb(255, 255, 255);
+                           }
+                      img{
+                        width: 282px;
+                           
+                        }
+                     }
+            .blok2-2{
+               margin-left: 5px;
+               display: flex;
+               flex-wrap: wrap;
+               flex-direction: column;
+            }
+         
+            .mini-1{
+               position: relative;
+               p{
+                  text-align: center;
+                  position:absolute;
+                  left: 13%;
+                  top: 30%;
+                  font-size: 25px;
+                  color: rgb(255, 255, 255);
+               }
+            } img{
+                width: 282px;
+            }
+         
+            .mini-2{
+               position: relative;
+               p{
+                  text-align: center;
+                  position:absolute;
+                  left: 14%;
+                  top: 30%;
+                  font-size: 25px;
+                  color: rgb(255, 255, 255);
+               }
+            } img{
+                width: 282px;
+            }
+         }
+    }
+
+
+
+    
